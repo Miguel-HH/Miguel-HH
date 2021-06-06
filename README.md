@@ -1,6 +1,6 @@
 ## Hola 👋
 
-Soy Miguel Angel, topógrafo y entusiasta del "Desarrollo Web Frontend". Quiero pasar de "construir edificios" a "construir aplicaciones web".
+Soy Miguel Angel, topógrafo y entusiasta del Desarrollo Web Frontend. Quiero pasar de "construir edificios" a "construir aplicaciones web".
 
 ## EXPERIENCIA:
 
