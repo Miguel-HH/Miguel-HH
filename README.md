@@ -22,11 +22,17 @@ Para ampliar mis conocimientos en programación llevé un curso de "Computationa
 ## TECNOLOGÍAS
 
 ✅ HTML
+
 ✅ CSS. Me encanta Sass.
+
 ✅ JavaScript. Mi lenguaje de programación favorito.
+
 ✅ Ajax y WebSockets
+
 ✅ Git
+
 ✅ React.js
+
 ✅ Node.js
 
 
