@@ -2,7 +2,7 @@
 
 Soy Miguel Angel, topógrafo y entusiasta del Desarrollo Web Frontend. Quiero pasar de "construir edificios" a "construir aplicaciones web".
 
-## EXPERIENCIA:
+## EXPERIENCIA
 
 5 años como topógrafo, 3 años como dibujante de planos y 1 año como modelador 3D. Pero todo eso quedó atrás...
 Desde que descubrí el desarrollo web ya no soy la misma persona y estoy dispuesto a comenzar desde cero, o sea desde junior.
@@ -40,12 +40,6 @@ Aquí aparezco como "Spanish Translator": https://translate-coursera.org/new_gtc
 ✅ Node.js
 
 
-## PROYECTOS
+## [Portafolio](https://miguelhh.netlify.app)
 
-Mi primer proyecto es un blog. El cual he analizado con "Lighthouse" y obtuve un puntaje perfecto. Lo cual indica que el blog está optimizado en Accesibilidad y SEO.
-
-Enlace al blog:
-https://miguel-hh.github.io/blog-de-bolsillo/
-
-Repositorio del blog:
-https://github.com/Miguel-HH/blog-de-bolsillo/
+## [LinkedIn](https://www.linkedin.com/in/desarrollador-react-programador-miguel-huaman/)
