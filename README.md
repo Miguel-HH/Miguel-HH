@@ -11,7 +11,7 @@ Desde que descubrí el desarrollo web ya no soy la misma persona y estoy dispues
 
 👉 [Becario en "EDteam"](https://ed.team/cursos/css-animaciones) desde marzo del 2021.
 
-Prácticamente me pagan por estudiar. EDteam tiene muchos cursos sobre diseño y desarrollo web. Mi trabajo consiste en ver los videos de un curso y tomar apuntes, los cuales son de ayuda para los nuevos alumnos. Al finalizar, EDteam me entrega un certificado como si yo hubiera pagado por el curso.
+Prácticamente me pagaban por estudiar desarrollo web. Mi trabajo consistía en ver los videos de un curso y tomar apuntes, los cuales son de ayuda para los nuevos alumnos. Al finalizar, EDteam me entregaba un certificado como si yo hubiera pagado por el curso.
 
 Todos los jueves nos reunimos (a través de video llamada) los becarios y parte del staff de EDteam, donde el equipo de Frontend o UX nos ha contado sus experiencias en el desarrollo web.
 
@@ -40,4 +40,4 @@ Para ampliar mis conocimientos en programación llevé un curso de "Computationa
 
 ## [Portafolio](https://miguel-hh.netlify.app)
 
-## [LinkedIn](https://www.linkedin.com/in/desarrollador-react-programador-miguel-huaman/)
+## [LinkedIn](https://www.linkedin.com/in/miguel-huaman-desarrollador-frontend-react/)
