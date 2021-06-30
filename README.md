@@ -35,7 +35,7 @@ Para ampliar mis conocimientos en programación llevé un curso de "Computationa
 ✅ Node.js
 
 ## Portafolio
-[Miguel-HH.netlify.app](https://miguel-hh.netlify.app)
+[https://Miguel-HH.netlify.app](https://miguel-hh.netlify.app)
 
 ## LinkedIn
 [https://www.linkedin.com/in/Miguel-Huaman-Desarrollador-Frontend-React/](https://www.linkedin.com/in/miguel-huaman-desarrollador-frontend-react/)
