@@ -9,8 +9,8 @@ Me encanta ver cómo se renderiza una interfaz. Me parece mágico ese breve inst
 5 años como topógrafo, 3 años como dibujante de planos y 1 año como modelador 3D. Pero todo eso quedó atrás...
 Desde que descubrí el **Desarrollo web** ya no soy la misma persona y volví a comenzar desde cero, o sea desde junior.
 
+- 2021: Desarrollo de páginas web y testing de aplicaciones. 
 - 2022: Desarrollo de aplicaciones y automatizaciones low code con Power Apps y Power Automate.
-- 2021: Desarrollo de páginas web. 
 
 ## VOLUNTARIADO
 
@@ -37,7 +37,7 @@ Para ampliar mis conocimientos en programación llevé un curso de "Computationa
 ✅ Node.js
 
 ## Portafolio
-[https://Miguel-HH.netlify.app](https://miguel-hh.netlify.app)
+[https://MiguelHuamanPortfolio.netlify.app](#)
 
 ## LinkedIn
-[https://www.linkedin.com/in/Miguel-Huaman-Desarrollador-Frontend-React/](https://www.linkedin.com/in/miguel-huaman-desarrollador-frontend-react/)
+[https://www.linkedin.com/in/miguel-huaman-desarrollador-blockchain/](https://www.linkedin.com/in/miguel-huaman-desarrollador-blockchain/)
