@@ -36,6 +36,8 @@ Para ampliar mis conocimientos en programación llevé un curso de "Computationa
 
 ✅ Node.js
 
+✅ Solidity
+
 ## Portafolio
 - https://MiguelHuamanPortfolio.netlify.app
 
