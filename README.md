@@ -1,14 +1,16 @@
 ## Hola 👋
 
-Quiero pasar de "construir edificios" a "construir aplicaciones web".
-Hola. Soy Miguel Angel, un topógrafo que desea trabajar como Desarrollador web frontend.
+Antes de la pandemia yo construía edificios. Pero gracias a la programación ahora construyo aplicaciones, automatizaciones y páginas web.
 
 Me encanta ver cómo se renderiza una interfaz. Me parece mágico ese breve instante cuando el código deja de ser una “idea” y se vuelve tangible, se vuelve “real”.
 
 ## EXPERIENCIA
 
 5 años como topógrafo, 3 años como dibujante de planos y 1 año como modelador 3D. Pero todo eso quedó atrás...
-Desde que descubrí el **Desarrollo web** ya no soy la misma persona y estoy dispuesto a comenzar desde cero, o sea desde junior.
+Desde que descubrí el **Desarrollo web** ya no soy la misma persona y volví a comenzar desde cero, o sea desde junior.
+
+- 2022: Desarrollo de aplicaciones y automatizaciones low code con Power Apps y Power Automate.
+- 2021: Desarrollo de páginas web. 
 
 ## VOLUNTARIADO
 
