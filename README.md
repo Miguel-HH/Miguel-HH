@@ -37,7 +37,7 @@ Para ampliar mis conocimientos en programación llevé un curso de "Computationa
 ✅ Node.js
 
 ## Portafolio
-[https://MiguelHuamanPortfolio.netlify.app](#)
+- https://MiguelHuamanPortfolio.netlify.app
 
 ## LinkedIn
-[https://www.linkedin.com/in/miguel-huaman-desarrollador-blockchain/](https://www.linkedin.com/in/miguel-huaman-desarrollador-blockchain/)
+- [https://www.linkedin.com/in/miguel-huaman-desarrollador-blockchain/](https://www.linkedin.com/in/miguel-huaman-desarrollador-blockchain/)
