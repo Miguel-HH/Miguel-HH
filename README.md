@@ -38,8 +38,5 @@ Para ampliar mis conocimientos en programación llevé un curso de "Computationa
 
 ✅ Solidity
 
-## Portafolio
-- 
-
 ## LinkedIn
 - [https://www.linkedin.com/in/miguel-huaman-desarrollador-blockchain/](https://www.linkedin.com/in/miguel-huaman-desarrollador-blockchain/)
