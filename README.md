@@ -33,4 +33,7 @@ Para ampliar mis conocimientos en programación llevé un curso de "Computationa
 ✅ Solidity, Web3.js y Ethers.js
 
 ## LinkedIn
-- [https://www.linkedin.com/in/miguel-huaman-desarrollador-blockchain/](https://www.linkedin.com/in/miguel-huaman-desarrollador-blockchain/)
+- [linkedin.com/in/miguel-huaman-desarrollador-blockchain](https://www.linkedin.com/in/miguel-huaman-desarrollador-blockchain/)
+
+## Blog
+- [miguelhuaman.com](https://miguelhuaman.com/)
