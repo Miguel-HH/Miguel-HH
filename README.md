@@ -6,21 +6,18 @@ Me encanta ver cómo se renderiza una interfaz. Me parece mágico ese breve inst
 
 ## EXPERIENCIA
 
-5 años como topógrafo, 3 años como dibujante de planos y 1 año como modelador 3D. Pero todo eso quedó atrás...
-Desde que descubrí el **Desarrollo web** ya no soy la misma persona y volví a comenzar desde cero, o sea desde junior.
-
-- 2021: Desarrollo de páginas web. 
-- 2022: Desarrollo de aplicaciones y automatizaciones low code con Power Apps y Power Automate.
+Dígito (2021 - 2022)
+- **Desarrollador de páginas web con WordPress:** Mi trabajo era conversar con los clientes y definir sus necesidades. Luego coordinaba con los diseñadores UI/UX para realizar un diseño que cumpla los alcances del cliente. Finalmente desarrollaba las páginas con WordPress y capacitaba al cliente para administrar su sitio web.
+- **Desarrollador de aplicaciones Low Code con Microsoft Power Apps:** Muchas empresas almacenan sus datos en Excel o SharePoint, así que utilizar Power Apps era la manera más sencilla de crear el frontend para una app de uso interno en su empresa.
+- **Desarrollador de automatizaciones con Microsoft Power Automate:** Me encantó construir RPA, robots que automatizaron el trabajo repetitivo de las áreas de almacén y contabilidad. Lo cual permitía que la gerencia tuviera dashboards con información actualizada de la empresa, facilitando la mejor toma de decisiones.
 
 ## VOLUNTARIADO
 
-👉 [Becario en "EDteam"](https://ed.team/cursos/css-animaciones) desde marzo del 2021.
+👉 [Becario en "EDteam"](https://ed.team/cursos/css-animaciones) (2021)
+Prácticamente me pagaron por estudiar desarrollo web. Mi trabajo consistía en ver clases de programación y tomar apuntes, los cuales aún sirven como complemento para educar a los alumnos de EDteam.
 
-Prácticamente me pagaban por estudiar desarrollo web. Mi trabajo consistía en ver los videos de un curso y tomar apuntes, los cuales son de ayuda para los nuevos alumnos. Al finalizar, EDteam me entregaba un certificado como si yo hubiera pagado por el curso.
-
-👉 [Traductor en "Coursera Global Translator Community"](https://translate-coursera.org/new_gtc/app/#/translator/profile/403642) desde mayo del 2021.
-
-Para ampliar mis conocimientos en programación llevé un curso de "Computational Thinking" impartido por "University of Michigan". El curso era bueno, pero su traducción al español dejaba mucho por desear. Así que yo me ofrecí a escribir mejores subtítulos.
+👉 [Traductor en "Coursera Global Translator Community"](https://translate-coursera.org/new_gtc/app/#/translator/profile/403642) (2021)
+Para ampliar mis conocimientos en programación, llevé un curso de “Computational Thinking”. Las clases eran geniales, pero su traducción al español dejaba mucho que desear. Así que yo me ofrecí a traducir el curso, y me aceptaron en su comunidad de traductores.
 
 ## TECNOLOGÍAS
 
