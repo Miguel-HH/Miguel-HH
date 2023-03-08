@@ -1,10 +1,8 @@
 ## Hola 👋
 
-Antes de la pandemia, me dedicaba a la construcción civil. Hoy, luego de aprender programación de manera autodidacta, trabajo construyendo aplicaciones y automatizaciones. 
+Me encanta ver cómo se renderiza una interfaz, me parece mágico ese breve instante cuando el código deja de ser una idea y se convierte en algo tangible, en algo real.
 
-Me encanta ver cómo se renderiza una interfaz, me parece mágico ese breve instante cuando el código deja de ser una idea y se convierte en algo tangible, en algo real. 
-
-Disfruto mucho de aprender nuevas tecnologías y colaborar con otros profesionales en grandes proyectos.
+Disfruto mucho de aprender nuevas tecnologías y colaborar con otros profesionales en hackathones o meetups.
 
 ## EXPERIENCIA
 
