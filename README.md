@@ -2,9 +2,13 @@
 
 Me encanta ver cómo se renderiza una interfaz, me parece mágico ese breve instante cuando el código deja de ser una idea y se convierte en algo tangible, en algo real.
 
-Disfruto mucho de aprender nuevas tecnologías y colaborar con otros profesionales en hackathones o meetups.
+Disfruto dar charlas sobre tecnología en universidades. Además he participado en hackathons de blockchain e IA.
 
 ## EXPERIENCIA
+
+Biwit (2023)
+
+✅ **Desarrollador fullstack:** Colaboré en la creación de una app de IA, utilizando la API de Open AI para crear embeddings. Desarrollé el frontend con Material UI en base a diseños elaborados en Figma, permitiendo a los usuarios interactuar con documentos como PDF mediante un chat y la integración de LLMs como gpt3 y gpt4. Creé un webhook que procesa pagos de Stripe y utilicé Jest para el testing.
 
 Dígito (2021 - 2022)
 
@@ -24,6 +28,3 @@ Para ampliar mis conocimientos en programación, llevé un curso de “Computati
 
 👉 [Contributor en "Platzi" (2022)](https://platzi.com/clases/2443-historia-bitcoin/40365-bitcoin-antes-de-bitcoin)
 Me encanta tomar notas de los cursos de Platzi que llevo. Luego de resumir un curso, recibo feedback de Platzi, lo cual me ayuda a mejorar mis habilidades de redacción.
-
-## LinkedIn
-- [linkedin.com/in/miguel1man](https://www.linkedin.com/in/miguel1man)
