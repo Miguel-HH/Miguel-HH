@@ -1,30 +1,37 @@
-## Hola 👋
+## Hi 👋
 
-Me encanta ver cómo se renderiza una interfaz, me parece mágico ese breve instante cuando el código deja de ser una idea y se convierte en algo tangible, en algo real.
+I enjoy writing code for machines, and sometimes I also write stories for people.
 
-Disfruto dar charlas sobre tecnología en universidades. Además he participado en hackathons de blockchain e IA.
+I love watching how an interface is rendered. That moment when code stops being just an idea and becomes something tangible, something real that anyone can use, seems magical to me. I'm always on the lookout for opportunities to collaborate with other professionals at technology events. I have given talks on AI at universities and participated in blockchain and AI hackathons.
 
-## EXPERIENCIA
+I studied civil engineering in 2010 and worked in that field until 2020. However, due to the pandemic, the peruvian state closed all construction sites, leaving me unemployed with a lot of free time. During that time, I started studying philosophy and programming. Since then, I have been very happy working as a developer.
 
-Biwit (2023)
+## EXPERIENCE
 
-✅ **Desarrollador fullstack:** Colaboré en la creación de una app de IA, utilizando la API de Open AI para crear embeddings. Desarrollé el frontend con Material UI en base a diseños elaborados en Figma, permitiendo a los usuarios interactuar con documentos como PDF mediante un chat y la integración de LLMs como gpt3 y gpt4. Creé un webhook que procesa pagos de Stripe y utilicé Jest para el testing.
+Full Stack Developer at "Biwit" (2023)
 
-Dígito (2021 - 2022)
+- Collaborated on the creation of an AI app, utilizing the "Open AI" API to generate embeddings, which were stored in a vector database (Pinecone).
+- Developed the frontend using "Material UI" and "Next.js" based on Figma designs, enabling users to chat with their documents using GPT-3 and GPT-4.
+- Created a webhook for payment processing with the Stripe API using Typescript, GraphQL, and Prisma, updating PostgreSQL databases. Conducted unit tests with Jest.
 
-✅ **Desarrollador de páginas web con WordPress:** Me encargaba de conversar con los clientes para definir sus necesidades y coordinar con los diseñadores UI/UX para crear un diseño que cumpliera con sus requisitos. Después, desarrollaba las páginas web utilizando WordPress y brindaba capacitación al cliente para que pudiera administrar su sitio web de manera efectiva.
+Low Code Developer at "Dígito" (2021 - 2022)
 
-✅ **Desarrollador de aplicaciones Low Code con Microsoft Power Apps:** Utilicé herramientas low code de Microsoft para construir el frontend de aplicaciones de uso interno en empresas que almacenan sus datos en Excel o SharePoint.
+- Worked on the creation of WordPress websites, engaging with clients to define scopes, UI/UX design, and providing training for website management.
+- Utilized "Microsoft Power Apps" to create low-code internal applications for companies, enhancing warehouse and accounting department productivity.
+- Implemented automations with "Microsoft Power Automate," including robotic process automation (RPA) to improve communication efficiency between management and sales departments.
 
-✅ **Desarrollador de automatizaciones con Microsoft Power Automate:** Desarrollé robots de procesamiento automatizado (RPA) que facilitaron el trabajo repetitivo en las áreas de almacén y contabilidad, permitiendo que la gerencia tuviera dashboards con información actualizada y lograra tomar decisiones más efectivas.
+## AWARDS
 
-## VOLUNTARIADO
+- First place for developing a blockchain dapp in the "BNB Chain" challenge at Latam WebX Hackathon by "Andino DAO" (2022).
+- Second place in "Hackathon IA para salud mental" organized by "Universidad Norbert Wiener" and "Proveedy" (2023).
 
-👉 [Becario en "EDteam" (2021)](https://ed.team/cursos/css-animaciones)
-Mi trabajo consistía en ver los nuevos cursos de programación y tomar apuntes, los cuales aún se utilizan como complemento en la educación de los estudiantes.
+## EDUCATION
+- Solidity and Smart Contracts in the "Ethereum Developer Program" by Platzi and "Ethereum Foundation" (2022).
+- Typescript, Node.JS, and SASS through a scholarship from "Innóvate Perú" and Platzi (2021).
+- Intermediate-level English (B2) at the “Asociación Cultural Peruano Británica” (2019-2020).
+- Civil Engineering (Incomplete) at "Universidad Nacional de Ingeniería" (2010-2012).
 
-👉 [Traductor en "Coursera Global Translator Community" (2021)](https://translate-coursera.org/new_gtc/app/#/translator/profile/403642)
-Para ampliar mis conocimientos en programación, llevé un curso de “Computational Thinking”. Las clases eran geniales, pero su traducción al español dejaba mucho que desear. Así que yo me ofrecí a traducir el curso y me aceptaron en su comunidad de traductores.
+## PERSONAL PROJECT
+- "La llamita sincera" utilizes an LLM based on Llama2 to create an AI chat that always tells the truth without needing internet access. Developed with Python and Svelte. The embeddings and vector database operate at 100% locally.
 
-👉 [Contributor en "Platzi" (2022)](https://platzi.com/clases/2443-historia-bitcoin/40365-bitcoin-antes-de-bitcoin)
-Me encanta tomar notas de los cursos de Platzi que llevo. Luego de resumir un curso, recibo feedback de Platzi, lo cual me ayuda a mejorar mis habilidades de redacción.
+https://github.com/miguel1man/llamitasincera
