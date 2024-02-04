@@ -8,6 +8,9 @@ I studied civil engineering in 2010 and worked in that field until 2020. However
 
 ## EXPERIENCE
 
+Programmer Analyst at "G&S" (2024)
+- Specializing in AI projects.
+
 Full Stack Developer at "Biwit" (2023)
 
 - Collaborated on the creation of an AI app, utilizing the "Open AI" API to generate embeddings, which were stored in a vector database (Pinecone).
