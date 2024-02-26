@@ -1,15 +1,17 @@
 ## Hi 👋
 
-I enjoy writing code for machines, and sometimes I also write stories for people.
+I write code for machines, and sometimes I also write stories for people.
 
-I love watching how an interface is rendered. That moment when code stops being just an idea and becomes something tangible, something real that anyone can use, seems magical to me. I'm always on the lookout for opportunities to collaborate with other professionals at technology events. I have given talks on AI at universities and participated in blockchain and AI hackathons.
+I studied civil engineering back in 2010. But one day, I learned to code and decided to switch careers.
 
-I studied civil engineering in 2010 and worked in that field until 2020. However, due to the pandemic, the peruvian state closed all construction sites, leaving me unemployed with a lot of free time. During that time, I started studying philosophy and programming. Since then, I have been very happy working as a developer.
+I love it when someone uses an app I built and says, "Wow! I didn't know this was possible."
+
+One day I met ChatGPT and dropped everything I was doing to specialize as a full-stack programmer in artificial intelligence projects.
 
 ## EXPERIENCE
 
 Programmer Analyst at "G&S" (2024)
-- Specializing in AI projects.
+- Currently working on AI projects...
 
 Full Stack Developer at "Biwit" (2023)
 
