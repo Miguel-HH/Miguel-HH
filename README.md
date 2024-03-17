@@ -1,12 +1,9 @@
-## Hi 👋
+# Hi 👋
 
-I write code for machines, and sometimes I also write stories for people.
-
-I studied civil engineering back in 2010. But one day, I learned to code and decided to switch careers.
-
-I love it when someone uses an app I built and says, "Wow! I didn't know this was possible."
-
-One day I met ChatGPT and dropped everything I was doing to specialize as a full-stack programmer in artificial intelligence projects.
+- I write code for machines, and sometimes I also write stories for people.
+- I studied civil engineering back in 2010. But one day, I learned to code and decided to switch careers.
+- I love it when someone uses an app I built and says, "Wow! I didn't know this was possible."
+- In 2022, I encountered ChatGPT and dropped everything I was doing to specialize as a full-stack programmer in artificial intelligence projects.
 
 ## EXPERIENCE
 
