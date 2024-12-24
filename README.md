@@ -7,11 +7,11 @@
 ## EXPERIENCE
 
 Programmer Analyst at "G&S Gestión y Sistemas" (2024)
-- Currently working on AI projects with Azure OpenAI...
+- Currently working on AI apps for banks and ministries of Peru.
 
 Full Stack Developer at "Biwit" (2023)
 
-- Collaborated on the creation of an AI app, utilizing the Open AI API to generate embeddings, which were stored in a vector database (Pinecone).
+- Collaborated on the creation of an AI app, utilizing the OpenAI API to generate embeddings, which were stored in a vector database (Pinecone).
 - Developed the frontend using Material UI and Next.js based on Figma designs, enabling users to chat with their documents using GPT-3 and GPT-4.
 - Created a webhook for payment processing with the Stripe API using Typescript, GraphQL, and Prisma, updating PostgreSQL databases. Conducted unit tests with Jest.
 
