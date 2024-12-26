@@ -1,8 +1,8 @@
 # Hi 👋
 
 - I studied civil engineering back in 2010. But one day, I learned to code and decided to switch careers.
-- I love it when someone uses an app I built and says, "Wow! I didn't know this was possible."
-- In 2022, I discovered ChatGPT, which inspired me to focus on using my skills as a full-stack developer to work on artificial intelligence projects.
+- I love it when someone uses an app I built and says "Wow! I didn't know this was possible."
+- In 2022, I discovered ChatGPT, which inspired me to focus on AI projects as a full-stack developer.
 
 ## EXPERIENCE
 
